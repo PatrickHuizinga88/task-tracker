@@ -7,7 +7,7 @@ const Header = ({onAdd, showAdd}) => {
     return (
         <header className="header">
             <h1>Task Tracker</h1>
-            {location.pathname === "/" && (
+            {location.pathname === "/task-tracker" && (
                 <Button onClick={onAdd} text={showAdd ? 'Add' : 'Close'}/>
             )}
         </header>
