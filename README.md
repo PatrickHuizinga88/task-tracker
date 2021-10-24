@@ -1,4 +1,4 @@
-# task-tracker
+# Task Tracker
 
 **Demo: https://patrickhuizinga88.github.io/task-tracker**
 
